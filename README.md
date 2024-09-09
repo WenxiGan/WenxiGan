@@ -12,8 +12,10 @@
 
 ## Life interests
 
-❤️ 
-❤️ I love city walk and traveling. I already visited Beijing, Shanghai, Guangzhou, Shenzhen, Hongkong, Macao, Chengdu, Chongqing, Nanjing, Suzhou, Hangzhou, Hefei, Guizhou etc..
+❤️ I'm a big fan of Apple. 🧑🏻‍💻
+
+❤️ I'm interested in high techknowledge investment and value investment. 📈 📉
+
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
