@@ -12,7 +12,7 @@
 
 ## Life interests
 
-❤️ Badmintine🏸
+❤️ Badminton 🏸
 
 ❤️ A big fan of Apple. 🧑🏻‍💻
 
