@@ -16,7 +16,7 @@
 
 ❤️ A big fan of Apple. 🧑🏻‍💻
 
-❤️ High techknowledge investment and value investment. 📈 📉
+❤️ High technology investment and value investment. 📈 📉
 
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
