@@ -12,7 +12,7 @@
 
 ## Life interests
 
-❤️ Badminton 🏸
+❤️ Badminton. 🏸
 
 ❤️ A big fan of Apple. 🧑🏻‍💻
 
