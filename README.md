@@ -6,15 +6,17 @@
 
 ## Research interests 
 
-🤯 I'm currently interested in Ai4Science. 🧬 Drug discovery. 🧬 BioLLM.
+🤯 My current research interest is in Ai4Science. 🧬 Drug discovery. 🧬 BioLLM.
 
 🤯 I'm also interested in computer systems. ⚙️
 
 ## Life interests
 
-❤️ I'm a big fan of Apple. 🧑🏻‍💻
+❤️ Badmintine🏸
 
-❤️ I'm interested in high techknowledge investment and value investment. 📈 📉
+❤️ A big fan of Apple. 🧑🏻‍💻
+
+❤️ High techknowledge investment and value investment. 📈 📉
 
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
