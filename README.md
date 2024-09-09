@@ -1,6 +1,6 @@
 ## About me 
 
-🤖 I'm currently a DCAI(data centric ai) MSc student in HKUST(GZ).
+🤖 I'm currently a DCAI(data centric ai) MSc student in HKUST(GZ)(https://www.hkust-gz.edu.cn/).
 
 🤖 I got my BEng in computer science from Wuhan University.
 
