@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About me 
+I'm currently a DCAI(data centric ai) MSc student in HKUST(GZ).
+I got my BEng of computer science degree in Wuhan University.
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
