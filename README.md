@@ -1,6 +1,6 @@
 ## My current job/positon
 
-🕶️ I'm currently a research intern in BAAI(Beijing Academy of AI), working on BioLLM. 
+🕶️ I'm currently a research intern in BAAI-Beijing Academy of AI(https://www.baai.ac.cn/), working on BioLLM. 
 
 ## About me 
 
