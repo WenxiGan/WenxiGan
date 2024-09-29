@@ -22,6 +22,10 @@
 
 ❤️ High technology investment and value investment. 📈 📉 My xueqiu homepage(https://xueqiu.com/principle).
 
+## Life quote
+
+🥥 Be a better person.
+
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
