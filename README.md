@@ -1,7 +1,3 @@
-## My current job/positon
-
-🕶️ I'm currently a research intern in BAAI-Beijing Academy of AI(https://www.baai.ac.cn/). 
-
 ## About me 
 
 🤖 I'm currently a DCAI(data centric ai) MSc student in HKUST(GZ)(https://www.hkust-gz.edu.cn/).
