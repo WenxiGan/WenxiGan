@@ -22,6 +22,9 @@
 
 🥥 Be a better person.
 
+## GitHub Status
+[![WenxiGan's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenxiGan)](https://github.com/WenxiGan/github-readme-stats&show_icons=true)
+
 <!--
 **WenxiGan/WenxiGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
