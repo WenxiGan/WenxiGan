@@ -16,8 +16,6 @@
 
 ❤️ A big fan of Apple. 🧑🏻‍💻
 
-❤️ High technology investment and value investment. 📈 📉 My xueqiu homepage(https://xueqiu.com/principle).
-
 ## Life quote
 
 🥥 Be a better person.
