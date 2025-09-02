@@ -1,20 +1,16 @@
 ## About me 
 
-🤖 I'm currently a DCAI(data centric ai) MSc student in HKUST(GZ)(https://www.hkust-gz.edu.cn/).
+🤖 I am now a Data Science PhD student in City University of Hong Kong.
+
+🤖 I got my MSc of DCAI(data centric ai) from HKUST(GZ).
 
 🤖 I got my BEng in computer science from Wuhan University.
 
 ## Research interests 
 
-🤯 My current research interest is in Ai4Science. 🧬 Drug discovery. 🧬 BioLLM.
+🤯 My current research interest is in RAG, AI Agent.
 
 🤯 I'm also interested in computer systems. ⚙️
-
-## Life interests
-
-❤️ Badminton. 🏸
-
-❤️ A big fan of Apple. 🧑🏻‍💻
 
 ## Life quote
 
