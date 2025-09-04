@@ -2,15 +2,15 @@
 
 🤖 I am now a Data Science PhD student in City University of Hong Kong.
 
-🤖 I got my MSc of DCAI(data centric ai) from HKUST(GZ).
+🤖 I got my MSc of DCAI(data centric ai) from Hong Kong University of Science and Technology(Guangzhou).
 
 🤖 I got my BEng in computer science from Wuhan University.
 
 ## Research interests 
 
-🤯 My current research interest is in RAG, AI Agent.
+🤯 My current research interest is in RAG, AI Agent, Model Compression.
 
-🤯 I'm also interested in computer systems. ⚙️
+🤯 I'm also interested in computer systems and computer vision. ⚙️
 
 ## Life quote
 
