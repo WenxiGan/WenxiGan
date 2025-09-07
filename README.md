@@ -8,9 +8,9 @@
 
 ## Research interests 
 
-🤯 My current research interest is in RAG, AI Agent, Model Compression.
+🤯 My current research interest is in RAG, AI Agent.
 
-🤯 I'm also interested in computer systems and computer vision. ⚙️
+🤯 I'm also interested in computer systems, computer vision and LLM model compression. ⚙️
 
 ## Life quote
 
